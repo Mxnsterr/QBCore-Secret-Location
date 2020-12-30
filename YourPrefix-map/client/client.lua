@@ -13,7 +13,6 @@ end)
 function blipWeg()
     Citizen.Wait(Config.Duurtijd)
     RemoveBlip(radiusLoc)
-    print("Done")
 end
 
 function mapUsage()
