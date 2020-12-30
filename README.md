@@ -28,7 +28,8 @@ Voeg volgende code toe aan je shared.lua in de core
 ["useable"] = true, 
 ["shouldClose"] = true, 
 ["combinable"] = nil, 
-["description"] = "Geheime kaart :o"},
+["description"] = "Geheime kaart :o"
+},
 
 ```
 
